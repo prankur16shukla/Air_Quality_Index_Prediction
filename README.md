@@ -1,3 +1,4 @@
+In this Regression project we extracted the data related to Air Quality Index from a Website. We have pre-processed the extracted data and made predictions on the AQI based on other factors. We have solved this problem by different algorithms along with Hyper Parameter Tuning.
 
 Algorithms used :
 1. Linear Regression
